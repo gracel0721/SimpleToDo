@@ -8,7 +8,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src=''/>
+<img src='https://github.com/gracel0721/SimpleToDo/blob/master/simpletodogif.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
